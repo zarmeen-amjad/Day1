@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+<employee id="1">
+<id>10234</id>
+<name>salman</name>
+<salary>50000</salary>
+<joining_date>2-2-2015</joining_date>
+<position>manager</position>
+</employee>
+<employee id="2">
+<id>10235</id>
+<name>ibrahim</name>
+<salary>20000</salary>
+<joining_date>3-5-1990</joining_date>
+<position>CEO</position>
+</employee>
+<employee id="3">
+<id>10236</id>
+<name>asim</name>
+<salary>50000</salary>
+<joining_date>4-4-2017</joining_date>
+<position>manager</position>
+</employee>
+<employee id="4">
+<id>10237</id>
+<name>gazanfar</name>
+<salary>50000</salary>
+<joining_date>8-10-2015</joining_date>
+<position>manager</position>
+</employee>
+<employee id="5">
+<id>10238</id>
+<name>saima</name>
+<salary>10000</salary>
+<joining_date>4-5-2000</joining_date>
+<position>MD</position>
+</employee>
+</table>
+
+
+
+
+
+
+
+
+
